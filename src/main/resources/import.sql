@@ -47,4 +47,4 @@ INSERT INTO tb_score(movie_id, user_id, value) VALUES (5, 1, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (6, 4, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (6, 3, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (6, 5, 4.0);
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (6, 3, 4.0);
+INSERT INTO tb_score(movie_id, user_id, value) VALUES (6, 1, 4.0);
